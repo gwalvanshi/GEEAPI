@@ -1,0 +1,60 @@
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll.config
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\bin\Debug\GEE.DataAccess.pdb
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\bin\Debug\EntityFramework.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\bin\Debug\GEE.Business.Model.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\bin\Debug\GEE.Common.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\bin\Debug\System.ValueTuple.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\bin\Debug\NLog.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\bin\Debug\GEE.Business.Model.pdb
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\bin\Debug\GEE.Common.pdb
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\bin\Debug\EntityFramework.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\bin\Debug\System.ValueTuple.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\bin\Debug\NLog.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\obj\Debug\GEE.DataAccess.csprojAssemblyReference.cache
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CoreCompileInputs.cache
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CopyComplete
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\obj\Debug\GEE.DataAccess.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.DataAccess\obj\Debug\GEE.DataAccess.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll.config
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\bin\Debug\GEE.DataAccess.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\bin\Debug\GEE.Business.Model.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\bin\Debug\GEE.Common.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\bin\Debug\System.ValueTuple.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\bin\Debug\NLog.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\bin\Debug\GEE.Business.Model.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\bin\Debug\GEE.Common.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\bin\Debug\System.ValueTuple.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\bin\Debug\NLog.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\obj\Debug\GEE.DataAccess.csprojAssemblyReference.cache
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CopyComplete
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\obj\Debug\GEE.DataAccess.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.DataAccess\obj\Debug\GEE.DataAccess.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll.config
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\bin\Debug\GEE.DataAccess.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\bin\Debug\GEE.Business.Model.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\bin\Debug\GEE.Common.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\bin\Debug\System.ValueTuple.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\bin\Debug\NLog.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\bin\Debug\GEE.Business.Model.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\bin\Debug\GEE.Common.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\bin\Debug\System.ValueTuple.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\bin\Debug\NLog.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\obj\Debug\GEE.DataAccess.csprojAssemblyReference.cache
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CopyComplete
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\obj\Debug\GEE.DataAccess.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.DataAccess\obj\Debug\GEE.DataAccess.pdb

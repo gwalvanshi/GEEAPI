@@ -1,0 +1,39 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Web;
+using System.Web.Http;
+using System.Web.Http.Results;
+using GEE.Business.Interface.Security;
+using GEE.Business.Model.Security;
+namespace GEE.API.Controllers.Security
+{
+    public class NavigationPermissionController : BaseController
+    {
+        INavigationPermission _navigationPermission;      
+
+        public NavigationPermissionController(INavigationPermission navigationPermission)
+        {
+            _navigationPermission = navigationPermission;
+            
+        }
+      
+        [AcceptVerbs("GET")]
+        [HttpGet]
+        public JsonResult<List<NavigationPermissionModel>> GetNavigationPermission(int userGroupid, int menuid)
+        {
+            try
+            {
+
+                return Json(_navigationPermission.GetNavigationPermission(userGroupid, menuid));
+
+            }
+            catch (Exception ex)
+            {
+                Common.MyLogger.Error(ex.Message + ex.StackTrace + ex.InnerException.ToString());
+                return null;
+            }
+        }
+    }
+}

@@ -1,0 +1,15 @@
+E:\WorkArea\GEEAPI1\Trunk\GEE.Business.Models\bin\Debug\GEE.Business.Model.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.Business.Models\bin\Debug\GEE.Business.Model.pdb
+E:\WorkArea\GEEAPI1\Trunk\GEE.Business.Models\obj\Debug\GEE.Business.Model.csproj.CoreCompileInputs.cache
+E:\WorkArea\GEEAPI1\Trunk\GEE.Business.Models\obj\Debug\GEE.Business.Model.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.Business.Models\obj\Debug\GEE.Business.Model.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.Business.Models\bin\Debug\GEE.Business.Model.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.Business.Models\bin\Debug\GEE.Business.Model.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.Business.Models\obj\Debug\GEE.Business.Model.csproj.CoreCompileInputs.cache
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.Business.Models\obj\Debug\GEE.Business.Model.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.Business.Models\obj\Debug\GEE.Business.Model.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.Business.Models\bin\Debug\GEE.Business.Model.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.Business.Models\bin\Debug\GEE.Business.Model.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.Business.Models\obj\Debug\GEE.Business.Model.csproj.CoreCompileInputs.cache
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.Business.Models\obj\Debug\GEE.Business.Model.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.Business.Models\obj\Debug\GEE.Business.Model.pdb

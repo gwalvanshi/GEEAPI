@@ -1,0 +1,444 @@
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.Collections.Immutable.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.Reflection.Metadata.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\VBCSCompiler.exe
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\GEE.API.dll.config
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\GEE.API.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\GEE.API.pdb
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\csc.exe
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\csc.exe.config
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\csc.rsp
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\csi.exe
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\csi.exe.config
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\csi.rsp
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.AppContext.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.Console.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.Diagnostics.Process.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.IO.Compression.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.IO.FileSystem.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.IO.Pipes.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.Security.AccessControl.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.Security.Claims.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.Threading.Thread.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.Xml.XPath.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\vbc.exe
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\vbc.exe.config
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\vbc.rsp
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\VBCSCompiler.exe.config
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\CommonServiceLocator.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\EntityFramework.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\EntityFramework.SqlServer.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\GEE.Business.Interface.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\GEE.Business.Manager.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\GEE.Business.Model.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\GEE.Common.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\GEE.DataAccess.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.AspNet.Identity.Core.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.Owin.Cors.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.Owin.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.Owin.Security.Cookies.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.Owin.Security.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.Owin.Security.OAuth.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.Web.Infrastructure.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Newtonsoft.Json.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\NLog.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Owin.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Net.Http.Formatting.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.ValueTuple.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.Cors.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.Helpers.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.Http.Cors.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.Http.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.Http.Owin.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.Http.WebHost.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.Mvc.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.Optimization.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.Razor.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.WebPages.Deployment.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.WebPages.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.WebPages.Razor.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Unity.Abstractions.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Unity.AspNet.WebApi.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Unity.Configuration.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Unity.Container.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Unity.Interception.Configuration.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Unity.Interception.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Unity.RegistrationByConvention.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Unity.ServiceLocation.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\WebActivatorEx.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\AutoMapper.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\GEE.Business.Interface.pdb
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\GEE.Business.Manager.pdb
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\GEE.Business.Model.pdb
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\GEE.Common.pdb
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\GEE.DataAccess.pdb
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\GEE.DataAccess.dll.config
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\CommonServiceLocator.pdb
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\EntityFramework.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\EntityFramework.SqlServer.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.AspNet.Identity.Core.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.Owin.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.Owin.Cors.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.Owin.Security.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.Owin.Security.Cookies.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.Owin.Security.OAuth.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\NLog.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Net.Http.Formatting.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.ValueTuple.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.Helpers.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.Http.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.Http.Cors.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.Http.Owin.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.Http.WebHost.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.Mvc.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.Optimization.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.Razor.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.WebPages.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.WebPages.Deployment.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\System.Web.WebPages.Razor.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Unity.Configuration.pdb
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Unity.Interception.pdb
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Unity.Interception.Configuration.pdb
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Unity.RegistrationByConvention.pdb
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Unity.ServiceLocation.pdb
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\AutoMapper.pdb
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\AutoMapper.xml
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\obj\Debug\GEE.API.csprojAssemblyReference.cache
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\obj\Debug\GEE.API.csproj.CoreCompileInputs.cache
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\obj\Debug\GEE.API.csproj.CopyComplete
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\obj\Debug\GEE.API.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\obj\Debug\GEE.API.pdb
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\roslyn\System.ValueTuple.dll
+E:\WorkArea\GEEAPI1\Trunk\GEE.API\bin\WebGrease.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\GEE.API.dll.config
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\GEE.API.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\GEE.API.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\csc.exe
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\csc.exe.config
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\csc.rsp
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\csi.exe
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\csi.exe.config
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\csi.rsp
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.AppContext.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.Console.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\vbc.exe
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\vbc.exe.config
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\vbc.rsp
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\CommonServiceLocator.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\EntityFramework.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\GEE.Business.Interface.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\GEE.Business.Manager.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\GEE.Business.Model.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\GEE.Common.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\GEE.Communication.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\GEE.DataAccess.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.Owin.Cors.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.Owin.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.Owin.Security.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Newtonsoft.Json.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\NLog.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Owin.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.ValueTuple.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.Cors.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.Helpers.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.Http.Cors.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.Http.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.Http.Owin.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.Mvc.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.Razor.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.WebPages.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Unity.Abstractions.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Unity.AspNet.WebApi.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Unity.Configuration.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Unity.Container.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Unity.Interception.Configuration.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Unity.Interception.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Unity.RegistrationByConvention.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Unity.ServiceLocation.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\WebActivatorEx.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\WebGrease.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\AutoMapper.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\MailKit.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\MimeKit.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\BouncyCastle.Crypto.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\GEE.Business.Interface.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\GEE.Business.Manager.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\GEE.Business.Model.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\GEE.Common.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\GEE.DataAccess.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\GEE.DataAccess.dll.config
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\CommonServiceLocator.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\EntityFramework.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\EntityFramework.SqlServer.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\GEE.Communication.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.Owin.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.Owin.Cors.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.Owin.Security.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\NLog.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.ValueTuple.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.Helpers.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.Http.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.Http.Cors.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.Http.Owin.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.Mvc.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.Razor.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.WebPages.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Unity.Configuration.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Unity.Interception.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Unity.Interception.Configuration.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Unity.RegistrationByConvention.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Unity.ServiceLocation.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\AutoMapper.pdb
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\AutoMapper.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\MailKit.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\bin\MimeKit.xml
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\obj\Debug\GEE.API.csprojAssemblyReference.cache
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\obj\Debug\GEE.API.csproj.CoreCompileInputs.cache
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\obj\Debug\GEE.API.csproj.CopyComplete
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\obj\Debug\GEE.API.dll
+C:\Users\Jiya\Documents\Work area\BaseCode26\GEEAPI\GEE.API\obj\Debug\GEE.API.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\GEE.API.dll.config
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\GEE.API.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\GEE.API.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\csc.exe
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\csc.exe.config
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\csc.rsp
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\csi.exe
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\csi.exe.config
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\csi.rsp
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.AppContext.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.Console.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\vbc.exe
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\vbc.exe.config
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\vbc.rsp
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\CommonServiceLocator.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\EntityFramework.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\GEE.Business.Interface.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\GEE.Business.Manager.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\GEE.Business.Model.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\GEE.Common.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\GEE.DataAccess.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.Owin.Cors.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.Owin.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.Owin.Security.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Newtonsoft.Json.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\NLog.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Owin.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.ValueTuple.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.Cors.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.Helpers.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.Http.Cors.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.Http.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.Http.Owin.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.Mvc.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.Razor.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.WebPages.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Unity.Abstractions.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Unity.AspNet.WebApi.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Unity.Configuration.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Unity.Container.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Unity.Interception.Configuration.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Unity.Interception.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Unity.RegistrationByConvention.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Unity.ServiceLocation.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\WebActivatorEx.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\WebGrease.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\AutoMapper.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\MailKit.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\MimeKit.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\BouncyCastle.Crypto.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\GEE.Business.Interface.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\GEE.Business.Manager.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\GEE.Business.Model.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\GEE.Common.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\GEE.DataAccess.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\GEE.DataAccess.dll.config
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\CommonServiceLocator.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\EntityFramework.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\EntityFramework.SqlServer.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\GEE.Communication.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.Owin.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.Owin.Cors.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.Owin.Security.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\NLog.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.ValueTuple.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.Helpers.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.Http.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.Http.Cors.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.Http.Owin.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.Mvc.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.Razor.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.WebPages.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Unity.Configuration.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Unity.Interception.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Unity.Interception.Configuration.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Unity.RegistrationByConvention.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Unity.ServiceLocation.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\AutoMapper.pdb
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\AutoMapper.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\MailKit.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\bin\MimeKit.xml
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\obj\Debug\GEE.API.csprojAssemblyReference.cache
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\obj\Debug\GEE.API.csproj.CoreCompileInputs.cache
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\obj\Debug\GEE.API.csproj.CopyComplete
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\obj\Debug\GEE.API.dll
+C:\Users\Jiya\Documents\Work area\BaseTrunk\GEEAPI\GEE.API\obj\Debug\GEE.API.pdb
